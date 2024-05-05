@@ -54,5 +54,7 @@ We have created an AI model that receives the employee’s respiratory audio as 
 
 ## License
 
-[LICENSE](https://github.com/Rajendran2201/pulmonary-infection-detection/blob/main/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rajendran2201/pulmonary-infection-detection/blob/main/LICENSE) file for details.
+
+
 
